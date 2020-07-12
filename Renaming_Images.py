@@ -1,9 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[16]:
-
-
+# Nitin Rai
+# Agricultural and Biosystems Engineering
+# North Dakota State University
 import os
 # Function to rename multiple files
 def main():
@@ -21,10 +18,3 @@ def main():
 if __name__ == '__main__':
    # Calling main() function
    main()
-
-
-# In[ ]:
-
-
-
-
